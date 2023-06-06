@@ -1,0 +1,27 @@
+
+students {
+    background-color: bisque; font-family: "ubuntu"; height: 100vh;
+    width: 100vw; display: flex;
+    place-items: center; justify-content: center;
+    }
+    * {
+    display: block; margin: 10px;
+    overflow: hidden;
+    }
+    name {
+    font-size: 15pt; color: #ff5500;
+    }
+    usn, college, branch, yoj, email {
+    margin-left: 25px;
+    }
+    usn::before { content: "USN : "; font-weight: bold;
+    }
+    college::before { content: "College : "; font-weight: bold;
+    }
+    branch::before { content: "Branch : "; font-weight: bold;
+    }
+    yoj::before {
+    content: "Joining : "; font-weight: bold;
+    }
+    email::before { content: "E-Mail : "; font-weight: bold;
+    }

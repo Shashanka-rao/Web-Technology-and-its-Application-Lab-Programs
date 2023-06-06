@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+<students>
+<student>
+<name>Mayur Pai</name>
+<usn>4SF18IS053</usn>
+<college>Sahyadri College</college>
+<branch>ISE</branch>
+<yoj>2018</yoj>
+<email>mayur5pai@gmail.com</email>
+</student>
+<student>
+<name>Swathi S Nayak</name>
+<usn>4SF19IS115</usn>
+<college>Sahyadri College</college>
+<branch>ISE</branch>
+<yoj>2019</yoj>
+<email>swathisnayak21@gmail.com</email>
+</student>
+<student>
+<name>Prathiksha Kamath</name>
+<usn>4SF18IS069</usn>
+<college>Sahyadri College</college>
+<branch>ISE</branch>
+<yoj>2018</yoj>
+<email>prathikshakamath2000@gmail.com</email>
+</student>
+</students>
